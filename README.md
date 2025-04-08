@@ -1,6 +1,7 @@
 # __Trinity-toolhead__
 A small footprint monolithic high performance toolhead option.
-![Untitled Project (11)](https://github.com/user-attachments/assets/230cbced-bb03-4351-957d-a6a59152c4f1)
+![trinity render](https://github.com/user-attachments/assets/7f53c27a-d1df-4ea9-a5ba-640be166de45)
+
 
 I took inspiration from Takeoff, Calamity, Tiger's toolhead and IROB, and came up with this. It will be monolith compatible.
 
@@ -13,6 +14,7 @@ Discord: gerbz_
 * Optimised for dual gantry printers, the toolhead itself has a smaller Y footprint than the sherpa mini.
 * Light weight, estimated ~360g
 * The COM is absolutely on point!
+* 
 ![image](https://github.com/user-attachments/assets/4b7fee9b-9277-448e-b6ef-d20bfc20db1b)
 
 
