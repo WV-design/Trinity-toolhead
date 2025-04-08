@@ -15,12 +15,19 @@ Discord: gerbz_
 * Optimised for dual gantry printers, the toolhead itself has a smaller Y footprint than the sherpa mini.
 * Light weight, estimated ~360g
 * The COM is absolutely on point!
-* 
+  
 ![image](https://github.com/user-attachments/assets/4b7fee9b-9277-448e-b6ef-d20bfc20db1b)
+
+## Recommended parts:
+* 1x Fystec sherpa mini v3
+* Trianglelab ~~bad~~ dragon ace volcano
+* 2x Delta 3628
+* 1x Delta 2510
+* 
 
 
 ## Current TODO list:
+* Ducts
 * Belt clamps
 * Monolith compatibility
-* MGN12 (not needed because of the COM but why not :) )
-* 
+* MGN12, the torsional stiffness is not needed because of the COM but why not :) 
