@@ -25,7 +25,8 @@ Discord: gerbz_
 * 1x Delta 2510
 
 ## Monolith compatibility:
-----------------------------------
+| variant | compatibility status |
+|---------------|------------------|
 | 6mm belts 2wd | fully compatible |
 | 6mm belts 4wd | fully compatible |
 | 9mm belts 2wd | "wings" interfere with the xy joints |
