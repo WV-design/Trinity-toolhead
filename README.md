@@ -1,10 +1,10 @@
-# Trinity-toolhead
-A single piece high performance toolhead option
+# __Trinity-toolhead__
+A small footprint monolithic high performance toolhead option.
 ![Untitled Project (11)](https://github.com/user-attachments/assets/230cbced-bb03-4351-957d-a6a59152c4f1)
 
 I took inspiration from Takeoff, Calamity, Tiger's toolhead and IROB, and came up with this. It will be monolith compatible.
 
-This is currently untested, I am still working on it. I would love your feedback!
+## This is currently untested, I am still working on it. I would love your feedback!
 Discord: gerbz_
 
 * The body is a single print for maximum stiffness.
@@ -16,7 +16,7 @@ Discord: gerbz_
 ![image](https://github.com/user-attachments/assets/4b7fee9b-9277-448e-b6ef-d20bfc20db1b)
 
 
-Current TODO list:
+## Current TODO list:
 * Belt clamps
 * Monolith compatibility
 * MGN12 (not needed because of the COM but why not :) )
