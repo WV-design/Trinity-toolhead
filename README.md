@@ -25,12 +25,18 @@ Discord: gerbz_
 * 1x Delta 2510
 
 ## Monolith compatibility:
+**The flying gantry versions currently interfere with the part cooling fans, this may not mean Y loss but it can cause homing issues.**
+
 | variant | compatibility status |
 |---------------|------------------|
-| 6mm belts 2wd | fully compatible |
-| 6mm belts 4wd | fully compatible |
-| 9mm belts 2wd | "wings" interfere with the xy joints |
-| 9mm belts 4wd | "wings" interfere with the xy joints |
+| printed 6mm belts 2wd | fully compatible |
+| printed 6mm belts 4wd | fully compatible |
+| printed 9mm belts 2wd | "wings interfere" with the xy joints |
+| printed 9mm belts 4wd | "wings" interfere with the xy joints |
+| sheet metal 6mm belts 2wd | fully compatible |
+| sheet metal 6mm belts 4wd | fully compatible |
+| sheet metal 9mm belts 2wd | "wings" interfere with the xy joints |
+| sheet metal 9mm belts 4wd | "wings" interfere with the xy joints |
 
 
 ## Current TODO list:
