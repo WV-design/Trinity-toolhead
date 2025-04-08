@@ -20,7 +20,7 @@ Discord: gerbz_
 
 ## Recommended parts:
 * 1x Fystec sherpa mini v3
-* Trianglelab ~~bad~~ dragon ace volcano
+* ~~bad~~ dragon ace volcano
 * 2x Delta 3628
 * 1x Delta 2510
 
