@@ -27,6 +27,7 @@ Discord: gerbz_
 
 
 ## Current TODO list:
+* Forgot to do the K face mounting
 * Ducts
 * Belt clamps
 * Monolith compatibility
