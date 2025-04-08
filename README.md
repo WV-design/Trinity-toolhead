@@ -1,6 +1,7 @@
 # __Trinity-toolhead__
 A small footprint monolithic high performance toolhead option.
-![trinity render](https://github.com/user-attachments/assets/7f53c27a-d1df-4ea9-a5ba-640be166de45)
+![Untitled Project (12)](https://github.com/user-attachments/assets/a59dac44-85e1-497b-a686-303b4712fa22)
+
 
 
 I took inspiration from Takeoff, Calamity, Tiger's toolhead and IROB, and came up with this. It will be monolith compatible.
