@@ -4,7 +4,7 @@ A small footprint monolithic high performance toolhead option.
 
 
 
-I took inspiration from Takeoff, Calamity, Tiger's toolhead and IROB, and came up with this. It will be monolith compatible.
+I took inspiration from Takeoff, Calamity, Tiger's toolhead and IROB, and came up with this.
 
 ## This is currently untested, I am still working on it. I would love your feedback!
 Discord: gerbz_
