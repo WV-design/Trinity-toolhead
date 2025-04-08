@@ -23,12 +23,18 @@ Discord: gerbz_
 * Trianglelab ~~bad~~ dragon ace volcano
 * 2x Delta 3628
 * 1x Delta 2510
-* 
+
+## Monolith compatibility:
+----------------------------------
+| 6mm belts 2wd | fully compatible |
+| 6mm belts 4wd | fully compatible |
+| 9mm belts 2wd | "wings" interfere with the xy joints |
+| 9mm belts 4wd | "wings" interfere with the xy joints |
 
 
 ## Current TODO list:
 * Forgot to do the K face mounting
 * Ducts
 * Belt clamps
-* Monolith compatibility
+* Wider monolith compatibility
 * MGN12, the torsional stiffness is not needed because of the COM but why not :) 
