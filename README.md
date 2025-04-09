@@ -1,8 +1,8 @@
 <p align="center">
 # __Trinity-toolhead__
-  
-A small footprint monolithic high performance toolhead option.
 </p>
+A small footprint monolithic high performance toolhead option.
+
 
 ![trinity toolhead](https://github.com/user-attachments/assets/41433778-24b4-4971-bae2-0df017a28b86)
 
