@@ -16,7 +16,7 @@ Discord: gerbz_
 * The body is a single print to maximize weight, strength and stiffness.
 * The hotend is supported at the bottom of the heatsink to increase stiffness.
 * Double 3628 fans deliver enough cooling even for hot chambers.
-* Optimised for dual gantry printers, the toolhead itself has a smaller Y footprint than the sherpa mini.
+* Optimised for dual gantry printers, the Y footprint of the toolhead itself is smaller than the sherpa mini.
 * Light weight, estimated ~365g.
 * The COM is on point!
   
