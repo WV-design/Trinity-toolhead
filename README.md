@@ -1,6 +1,6 @@
-<p align="center">
+
 # __Trinity-toolhead__
-</p>
+
 
 A small footprint monolithic high performance toolhead option.
 </p>
