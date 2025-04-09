@@ -44,6 +44,7 @@ Discord: gerbz_
 | sheet metal 9mm belts 2wd | "wings" interfere with the xy joints |
 | sheet metal 9mm belts 4wd | "wings" interfere with the xy joints |
 
+Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the bed can be further back.
 
 ## Current TODO list:
 * Forgot to do the K face mounting
