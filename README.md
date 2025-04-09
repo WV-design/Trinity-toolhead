@@ -12,7 +12,6 @@ A small footprint single-piece high performance toolhead option.
 
 ## This is currently untested, I am still working on it. I would love your feedback!
 
-<p align="center">
 Discord: gerbz_
 
 * The body is a single print to maximize weight, strength and stiffness.
@@ -21,7 +20,6 @@ Discord: gerbz_
 * Optimised for dual gantry printers, the Y footprint of the toolhead itself is smaller than the sherpa mini.
 * Light weight, estimated ~365g.
 * The COM is on point!
-  </p>
   
 ![image](https://github.com/user-attachments/assets/4b7fee9b-9277-448e-b6ef-d20bfc20db1b)
 
