@@ -1,6 +1,7 @@
 # __Trinity-toolhead__
 A small footprint monolithic high performance toolhead option.
-![Untitled Project (12)](https://github.com/user-attachments/assets/a59dac44-85e1-497b-a686-303b4712fa22)
+![trinity toolhead](https://github.com/user-attachments/assets/41433778-24b4-4971-bae2-0df017a28b86)
+
 
 
 
