@@ -2,8 +2,9 @@
 # __Trinity-toolhead__
 
 
+
+I took inspiration from Takeoff, Calamity, Tiger's toolhead and IROB, and came up with this: 
 A small footprint single-piece high performance toolhead option.
-I took inspiration from Takeoff, Calamity, Tiger's toolhead and IROB, and came up with this.
 
 ![trinity toolhead](https://github.com/user-attachments/assets/41433778-24b4-4971-bae2-0df017a28b86)
 
