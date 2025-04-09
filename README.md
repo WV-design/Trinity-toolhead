@@ -46,8 +46,7 @@ Discord: gerbz_
 Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the bed can be further back.
 
 ## Current TODO list:
-* Forgot to do the K face mounting
-* Ducts
 * Belt clamps
+* Ducts
 * Wider monolith compatibility
 * MGN12, the torsional stiffness is not needed because of the COM but why not :) 
