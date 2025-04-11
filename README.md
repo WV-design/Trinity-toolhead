@@ -29,7 +29,15 @@ Discord: gerbz_
 * 2x Delta 3628
 * 1x Delta 2510
 
-## Monolith compatibility:
+## Compatibility:
+Having wide compatibility is hard...
+
+### Voron
+Partial compatibility with voron trident and 2 gantries 
+* Gantry must be flipped so there is more space under the xy joints
+* Cablechains for X cant be used
+
+### Monolith
 **The flying gantry versions currently interfere with the part cooling fans, this may not mean Y loss but it can cause homing issues.**
 
 | variant | compatibility status |
