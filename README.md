@@ -42,14 +42,10 @@ Partial compatibility with voron trident and 2 gantries
 
 | variant | compatibility status |
 |---------------|------------------|
-| printed 6mm belts 2wd | fully compatible |
-| printed 6mm belts 4wd | fully compatible |
-| printed 9mm belts 2wd | "wings interfere" with the xy joints |
-| printed 9mm belts 4wd | "wings" interfere with the xy joints |
-| sheet metal 6mm belts 2wd | fully compatible |
-| sheet metal 6mm belts 4wd | fully compatible |
-| sheet metal 9mm belts 2wd | "wings" interfere with the xy joints |
-| sheet metal 9mm belts 4wd | "wings" interfere with the xy joints |
+| printed 6mm belts | fully compatible |
+| sheet metal 6mm belts | fully compatible |
+| printed 9mm belts | "wings" interfere with the xy joints |
+| sheet metal 9mm belts | "wings" interfere with the xy joints |
 
 Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the bed can be further back.
 
