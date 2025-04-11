@@ -3,7 +3,7 @@
 
 
 
-I took inspiration from Takeoff, Calamity, Tiger's toolhead and IROB, and came up with this: 
+I took inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, and came up with this: 
 A small footprint single-piece high performance toolhead option.
 
 ![trinity toolhead](https://github.com/user-attachments/assets/41433778-24b4-4971-bae2-0df017a28b86)
@@ -54,3 +54,7 @@ Note: The Y footprint of this toolhead is VERY small so you likely get extra tra
 * Ducts
 * Wider monolith compatibility
 * MGN12, the torsional stiffness is not needed because of the COM but why not :) 
+
+## Credits
+Thanks Apex for your awesome belt clips and the insight!
+
