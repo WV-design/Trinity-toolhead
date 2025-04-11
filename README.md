@@ -4,7 +4,7 @@
 
 
 I took inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, and came up with this: 
-A small footprint single-piece high performance toolhead option.
+A small footprint unibody high performance toolhead option.
 
 ![trinity toolhead](https://github.com/user-attachments/assets/41433778-24b4-4971-bae2-0df017a28b86)
 
