@@ -47,7 +47,7 @@ Partial compatibility with voron trident and 2 gantries
 | printed 9mm belts | "wings" interfere with the xy joints |
 | sheet metal 9mm belts | "wings" interfere with the xy joints |
 
-Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the bed can be further back.
+Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the Y travel can be smaller.
 
 ## Current TODO list:
 * Belt clamps
