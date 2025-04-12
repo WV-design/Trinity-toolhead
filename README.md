@@ -1,15 +1,9 @@
-
 # __Trinity-toolhead__
-
-
-# MGN12 COMPATIBLITY WILL COME CHAZ
 
 I took inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, and came up with this: 
 A small footprint unibody high performance toolhead option.
 
 ![trinity toolhead](https://github.com/user-attachments/assets/41433778-24b4-4971-bae2-0df017a28b86)
-
-
 
 ## This is currently untested, I am still working on it. I would love your feedback!
 
@@ -52,10 +46,11 @@ Partial compatibility with voron trident and 2 gantries
 
 
 ## Current TODO list:
-* Belt clamps
+* ✓ Belt clamps
+* ✓ Mgn12 compatibility
 * Ducts
-* Wider monolith compatibility
-* MGN12, the torsional stiffness is not needed because of the COM but why not :) 
+* Wider extruder compatibility
+
 
 ## Credits
 Thanks Apex for your awesome belt clips and the insight!
