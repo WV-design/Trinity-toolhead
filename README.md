@@ -39,10 +39,9 @@ Partial compatibility with voron trident and 2 gantries
 |---------------|------------------|
 | printed 6mm belts | fully compatible |
 | sheet metal 6mm belts | fully compatible |
-| printed 9mm belts | "wings" interfere with the xy joints |
-| sheet metal 9mm belts | "wings" interfere with the xy joints |
-
-
+| printed 9mm belts | fully compatible |
+| sheet metal 9mm belts | fully compatible |
+| > 9mm belts | not supported |
 
 ## Current TODO list:
 * ✓ Belt clamps
