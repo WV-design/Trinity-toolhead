@@ -2,6 +2,7 @@
 # __Trinity-toolhead__
 
 
+# MGN12 COMPATIBLITY WILL COME CHAZ
 
 I took inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, and came up with this: 
 A small footprint unibody high performance toolhead option.
