@@ -59,4 +59,5 @@ Partial compatibility with voron trident and 2 gantries
 
 ## Credits
 Thanks Apex for your awesome belt clips and the insight!
+Thanks DK and Adeo on the insights on the ducts!
 
