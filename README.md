@@ -25,7 +25,6 @@ Discord: gerbz_
 * 1x Delta 2510
 
 ## Compatibility:
-Having wide compatibility is hard...
 
 Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the Y travel, and thus the printer as a whole can be smaller.
 
