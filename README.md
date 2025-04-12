@@ -33,13 +33,14 @@ Discord: gerbz_
 ## Compatibility:
 Having wide compatibility is hard...
 
+Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the Y travel, and thus the printer as a whole can be smaller.
+
 ### Voron
 Partial compatibility with voron trident and 2 gantries 
 * Gantry must be flipped so there is more space under the xy joints
 * Cablechains for X cant be used
 
 ### Monolith
-**The flying gantry versions currently interfere with the part cooling fans, this may not mean Y loss but it can cause homing issues.**
 
 | variant | compatibility status |
 |---------------|------------------|
@@ -48,7 +49,7 @@ Partial compatibility with voron trident and 2 gantries
 | printed 9mm belts | "wings" interfere with the xy joints |
 | sheet metal 9mm belts | "wings" interfere with the xy joints |
 
-Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the Y travel can be smaller.
+
 
 ## Current TODO list:
 * Belt clamps
