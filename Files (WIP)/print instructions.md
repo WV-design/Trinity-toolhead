@@ -1,6 +1,6 @@
-## It should be obvious in what orientation to print this.
+### It should be obvious in what orientation to print this.
 
-### Settings:
+## Settings:
 * Layer height, 0.12-0.2mm
 * wall count ~6-100(only walls).
 * top/bottom layers => 5
