@@ -13,7 +13,7 @@ There needs to be a pause in the print at ~10.6mm. At this point 2 m2.5x8mm bolt
 ![image](https://github.com/user-attachments/assets/a4aee60e-fd19-4788-9339-be228cefe5c7)
 
 
-##materials:
+## materials:
 Fiber filled filaments are preferred because of the increase in stiffness 
 * < 70C ABS 
 * < 100C PC-PBT
