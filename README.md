@@ -50,6 +50,8 @@ DK and Adeo on the insights on the ducts!
 Annex for the extruder design!
 Hartk for the voron construct repository!
 
+If you feel like you should be on here, reach out to me!
+
 ## Current TODO list:
 * ✓ Belt clamps
 * ✓ Mgn12 compatibility
