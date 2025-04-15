@@ -34,7 +34,7 @@ Partial compatibility with voron trident and 2 gantries
 * Cablechains for X cant be used
 
 ### Monolith
-
+currently only mgn12 is supported
 | variant | compatibility status |
 |---------------|------------------|
 | printed 6mm belts | fully compatible |
@@ -54,7 +54,6 @@ If you feel like you should be on here, reach out to me!
 
 ## Current TODO list:
 * ✓ Belt clamps
-* ✓ Mgn12 compatibility
 * ✓ Ducts
 * Fix com
 * Wider extruder compatibility
