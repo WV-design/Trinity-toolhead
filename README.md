@@ -5,9 +5,9 @@ A small footprint unibody high performance toolhead option.
 
 ![Untitled Project (16)](https://github.com/user-attachments/assets/cbb489eb-387c-4980-9744-d056e0c275b1)
 
-## This is currently untested, I am still working on it. I would love your feedback!
+## This is currently untested, I am still working on it. I would love your feedback! Discord: gerbz_
 
-Discord: gerbz_
+
 
 * The body is a single print to maximize weight, strength and stiffness.
 * The hotend is supported at the bottom of the heatsink to increase stiffness.
