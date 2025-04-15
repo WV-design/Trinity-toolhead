@@ -9,3 +9,4 @@
 - 4x m2.5x12mm (hot end fan mounting
 - 7x m3x4/5 heat set insert
 - 4x m2.5 heat set insert
+- 1x Beacon
