@@ -3,7 +3,6 @@
 I took inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, and came up with this: 
 A small footprint unibody high performance toolhead option.
 
-![trinity toolhead](https://github.com/user-attachments/assets/41433778-24b4-4971-bae2-0df017a28b86)
 ![Untitled Project (16)](https://github.com/user-attachments/assets/cbb489eb-387c-4980-9744-d056e0c275b1)
 
 ## This is currently untested, I am still working on it. I would love your feedback!
