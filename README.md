@@ -13,7 +13,7 @@ Discord: gerbz_
 * The hotend is supported at the bottom of the heatsink to increase stiffness.
 * Double 3628 fans deliver enough cooling even for hot chambers.
 * Optimised for dual gantry printers, the Y footprint of the toolhead itself is smaller than the sherpa mini.
-* Light weight, estimated ~365g.
+* Light weight, estimated ~370g.
 * The COM is on point!
   
 ![image](https://github.com/user-attachments/assets/4b7fee9b-9277-448e-b6ef-d20bfc20db1b)
@@ -43,14 +43,18 @@ Partial compatibility with voron trident and 2 gantries
 | sheet metal 9mm belts | fully compatible |
 | > 9mm belts | not supported |
 
+## Credits
+Thanks to:
+Apex for your awesome belt clips and the insight!
+DK and Adeo on the insights on the ducts!
+Annex for the extruder design!
+Hartk for the voron construct repository!
+
 ## Current TODO list:
 * ✓ Belt clamps
 * ✓ Mgn12 compatibility
-* Ducts
+* ✓ Ducts
 * Wider extruder compatibility
 
 
-## Credits
-Thanks Apex for your awesome belt clips and the insight!
-Thanks DK and Adeo on the insights on the ducts!
 
