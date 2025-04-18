@@ -45,10 +45,12 @@ currently only mgn12 is supported
 
 ## Credits
 Thanks to:
-Apex for your awesome belt clips and the insight!
-DK and Adeo on the insights on the ducts!
-Annex for the extruder design!
-Hartk for the voron construct repository!
+Apex, for your awesome belt clips and the insight!
+DK and Adeo, on the insights on the ducts!
+Wayne, for the monolith belt clamp
+barthini, for a suggestion about the design
+Annex, for the extruder design!
+Hartk, for the voron construct repository!
 
 If you feel like you should be on here, reach out to me!
 
