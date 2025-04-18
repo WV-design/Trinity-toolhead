@@ -7,8 +7,6 @@ A small footprint unibody high performance toolhead option.
 
 ## This is currently untested, I am still working on it. I would love your feedback! Discord: gerbz_
 
-
-
 * The body is a single print to maximize weight, strength and stiffness.
 * The hotend is supported at the bottom of the heatsink to increase stiffness.
 * Double 3628 fans deliver enough cooling even for hot chambers.
@@ -27,6 +25,8 @@ A small footprint unibody high performance toolhead option.
 ## Compatibility:
 
 Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the Y travel, and thus the printer as a whole can be smaller.
+
+GT2 belts only, gt3 is thicker and needs more tension. I am not confident in the plastic holding up to that.
 
 ### Voron
 Partial compatibility with voron trident and 2 gantries 
