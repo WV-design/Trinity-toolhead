@@ -56,6 +56,7 @@ If you feel like you should be on here, reach out to me!
 * ✓ Belt clamps
 * ✓ Ducts
 * home switch
+* monolith belt clamp maybe potentially??
 * Wider extruder compatibility
 
 
