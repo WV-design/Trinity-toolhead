@@ -52,7 +52,7 @@ DK and Adeo, on the insights on the ducts!
 
 Wayne, for the monolith belt clamp
 
-barthini, for a suggestion about the design
+Barthini and Caza, for a suggestion about the design
 
 Annex, for the extruder design!
 
