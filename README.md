@@ -55,7 +55,7 @@ If you feel like you should be on here, reach out to me!
 ## Current TODO list:
 * ✓ Belt clamps
 * ✓ Ducts
-* Fix com
+* home switch
 * Wider extruder compatibility
 
 
