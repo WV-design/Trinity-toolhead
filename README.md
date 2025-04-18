@@ -10,8 +10,8 @@ A small footprint unibody high performance toolhead option.
 * The body is a single print to maximize weight, strength and stiffness.
 * The hotend is supported at the bottom of the heatsink to increase stiffness.
 * Double 3628 fans deliver enough cooling even for hot chambers.
-* Optimised for dual gantry printers, the Y footprint of the toolhead itself is smaller than the sherpa mini.
-* Light weight, estimated ~400g.
+* Made to duel! the Y footprint is smaller than the sherpa mini.
+* Relatively ight weight, estimated ~400g.
 * Good COM
   
 ![image](https://github.com/user-attachments/assets/4b7fee9b-9277-448e-b6ef-d20bfc20db1b)
@@ -21,12 +21,13 @@ A small footprint unibody high performance toolhead option.
 * ~~bad~~ dragon ace volcano
 * 2x Delta 3628
 * 1x Delta 2510
+### GT2 belts only, gt3 is thicker and needs more tension. I am not confident in the plastic holding up to that.
 
 ## Compatibility:
 
 Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the Y travel, and thus the printer as a whole can be smaller.
 
-GT2 belts only, gt3 is thicker and needs more tension. I am not confident in the plastic holding up to that.
+
 
 ### Voron
 Partial compatibility with voron trident and 2 gantries 
