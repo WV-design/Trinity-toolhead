@@ -13,7 +13,7 @@ A small footprint unibody high performance toolhead option.
 * The hotend is supported at the bottom of the heatsink to increase stiffness.
 * Double 3628 fans deliver enough cooling even for hot chambers.
 * Optimised for dual gantry printers, the Y footprint of the toolhead itself is smaller than the sherpa mini.
-* Light weight, estimated ~370g.
+* Light weight, estimated ~400g.
 * Good COM
   
 ![image](https://github.com/user-attachments/assets/4b7fee9b-9277-448e-b6ef-d20bfc20db1b)
