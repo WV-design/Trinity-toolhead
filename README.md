@@ -64,7 +64,8 @@ If you feel like you should be on here, reach out to me!
 
 ## Current TODO list:
 
-* home switch
+* integrate a home switch
+* get 6mm belt clips and mgn9 compatibility going again
 * Wider extruder compatibility
 * ✓ monolith belt clamp maybe potentially??
 * ✓ Belt clamps
