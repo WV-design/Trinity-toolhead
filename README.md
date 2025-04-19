@@ -46,17 +46,19 @@ currently only mgn12 is supported
 
 ## Credits
 Thanks to:
-Apex, for your awesome belt clips and the insight!
+Apex, for your [awesome belt clips](https://github.com/ApexArray/ApexClips) and the insight!
+
+Wayne, for the [monolith belt clamps](https://github.com/CloakedWayne/MISC/tree/main/Monolith_SLM_belt_clamps)
+
+Annex, for the [extruder design!](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+
+Hartk, for the [voron construct repository!](https://github.com/PrintersForAnts/Voron-Construct)
 
 DK and Adeo, on the insights on the ducts!
 
-Wayne, for the monolith belt clamp
+Barthini and Caza, for feedback on the design
 
-Barthini and Caza, for a suggestion about the design
 
-Annex, for the extruder design!
-
-Hartk, for the voron construct repository!
 
 If you feel like you should be on here, reach out to me!
 
