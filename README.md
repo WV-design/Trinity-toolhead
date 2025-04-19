@@ -63,11 +63,13 @@ Barthini and Caza, for feedback on the design
 If you feel like you should be on here, reach out to me!
 
 ## Current TODO list:
+
+* home switch
+* Wider extruder compatibility
+* ✓ monolith belt clamp maybe potentially??
 * ✓ Belt clamps
 * ✓ Ducts
-* home switch
-* monolith belt clamp maybe potentially??
-* Wider extruder compatibility
+
 
 
 
