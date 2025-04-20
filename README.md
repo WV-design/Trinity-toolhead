@@ -5,29 +5,19 @@ A small footprint unibody high performance toolhead option.
 
 ![Untitled Project (16)](https://github.com/user-attachments/assets/cbb489eb-387c-4980-9744-d056e0c275b1)
 
-## This is currently untested, I am still working on it. I would love your feedback! Discord: gerbz_
+## This is currently untested, I am still working on it. I would love your feedback! Discord: gerbz_ 
 
 * The body is a single print to maximize weight, strength and stiffness.
 * The hotend is supported at the bottom of the heatsink to increase stiffness.
 * Double 3628 fans deliver enough cooling even for hot chambers.
-* Made to duel! the Y footprint is smaller than the sherpa mini.
-* Relatively ight weight, estimated ~400g.
+* Made to DUEL! the Y footprint fits within a sherpa mini.
+* Relatively light weight, estimated ~400g.
 * Good COM
-  
-![image](https://github.com/user-attachments/assets/4b7fee9b-9277-448e-b6ef-d20bfc20db1b)
 
-## Recommended parts:
-* 1x Fystec sherpa mini v3
-* ~~bad~~ dragon ace volcano
-* 2x Delta 3628
-* 1x Delta 2510
-### GT2 belts only, gt3 is thicker and needs more tension. I am not confident in the plastic holding up to that.
 
 ## Compatibility:
 
 Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the Y travel, and thus the printer as a whole can be smaller.
-
-
 
 ### Voron
 Partial compatibility with voron trident and 2 gantries 
@@ -43,6 +33,20 @@ currently only mgn12 is supported
 | printed 9mm belts | fully compatible |
 | sheet metal 9mm belts | fully compatible |
 | > 9mm belts | not supported |
+
+
+
+## Recommended parts:
+* 1x Fystec sherpa mini v3
+* ~~bad~~ dragon ace volcano
+* 2x Delta 3628
+* 1x Delta 2510
+### GT2 belts only, gt3 is thicker and needs more tension. I am not confident in the plastic holding up to that.
+
+
+
+
+
 
 ## Credits
 Thanks to:
