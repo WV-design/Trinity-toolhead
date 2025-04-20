@@ -54,7 +54,7 @@ currently only mgn12 is supported
 
 
 ## Print Settings:
-* Layer height: anything between 0.04-0.2mm should be fine
+* Layer height: anything between 0.2mm is tested, smaller should also be fine
 * Wall count: 6- only walls
 * Top/bottom layers: ~ 5
 * Infill: shouldnt really matter because of the walls and top layers
@@ -70,7 +70,7 @@ Fiber filled filaments are preferred because of the increase in stiffness
 * PET (annealed)
 * PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
 
-
+## assembly (will come after the cad is more stable)
 
 
 ## Credits
