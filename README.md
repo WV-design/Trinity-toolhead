@@ -41,9 +41,25 @@ currently only mgn12 is supported
 * ~~bad~~ dragon ace volcano
 * 2x Delta 3628
 * 1x Delta 2510
-### GT2 belts only, gt3 is thicker and needs more tension. I am not confident in the plastic holding up to that.
+### GT2 belts only for now, gt3 is thicker and needs way more tension. 
 
 
+## Print Settings:
+* Layer height: anything between 0.04-0.2mm should be fine
+* Wall count: 6- only walls
+* Top/bottom layers: ~ 5
+* Infill: shouldnt really matter because of the walls and top layers
+* Counterbore holes partially bridged is recommended
+* Print it **slowly**, strength and layer adhesion are important for the toolhead's performance. 
+
+
+## materials:
+Fiber filled filaments are preferred because of the increase in stiffness 
+* < 70C ABS 
+* < 100C PC-PBT
+* PC (look for a Tg of ~130C or higher, the rest is blended/impure)
+* PET (annealed)
+* PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
 
 
 
@@ -61,20 +77,4 @@ Hartk, for the [voron construct repository!](https://github.com/PrintersForAnts/
 DK and Adeo, on the insights on the ducts!
 
 Barthini and Caza, for feedback on the design
-
-
-
-If you feel like you should be on here, reach out to me!
-
-## Current TODO list:
-
-* integrate a home switch
-* get 6mm belt clips and mgn9 compatibility going again
-* Wider extruder compatibility
-* ✓ monolith belt clamp maybe potentially??
-* ✓ Belt clamps
-* ✓ Ducts
-
-
-
 
