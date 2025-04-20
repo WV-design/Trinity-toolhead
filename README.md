@@ -39,12 +39,14 @@ Compatible up to 9mm belts
 | 1 | Extruder | Recommended: <br /> Sherpa mini |
 | 2 | 3628 fan | Recommended: <br /> FFB03612EHNYCL move the most air but are the loudest <br /> FFB03612EHN-BGA are more quiet |
 | 1 | 2510 fan | Recommended: <br /> delta ASB02505SHA-AY6B |
+| 1 | SLM monolith belt clamp | **OPTIONAL** |
 | 4 | rail mounting bolts | m3x20 (mgn12 version |
 | 4 | m2.5x8mm | hotend mounting bolts |
 | 8 | m3x35mm | part cooling fan mounting |
 | 4 | m2.5x12 | hotend fan mounting
 | 11 | m3 heat set insert | 4 or 5mm
 | 4 | m2.5 heat set insert | for the hotend fan
+
 
 
 ## Print Settings:
