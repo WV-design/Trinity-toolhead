@@ -46,10 +46,10 @@ currently only mgn12 is supported
 
 | Amount | part | Note |
 |-|-|-|
-| 1 | Hotend | Recommended: dragon ace volcano |
-| 1 | Extruder | Recommended: Sherpa mini |
-| 2 | 3628 fan | Recommended: FFB03612EHNYCL move the most air but are the loudest <br /> FFB03612EHN-BGA are more quiet |
-| 1 | 2510 fan | Recommended: delta ASB02505SHA-AY6B |
+| 1 | Hotend | Recommended: <br /> dragon ace volcano |
+| 1 | Extruder | Recommended: <br /> Sherpa mini |
+| 2 | 3628 fan | Recommended: <br /> FFB03612EHNYCL move the most air but are the loudest <br /> FFB03612EHN-BGA are more quiet |
+| 1 | 2510 fan | Recommended: <br /> delta ASB02505SHA-AY6B |
 | 4 | rail mounting bolts | m3x20 (mgn12 version |
 | 4 | m2.5x8mm | hotend mounting bolts |
 | 8 | m3x35mm | part cooling fan mounting |
