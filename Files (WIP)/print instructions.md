@@ -5,8 +5,6 @@
 * Infill: shouldnt really matter because of the walls and top layers but ~40% helps with internal overhangs.
 * Counterbore holes partially bridged is recommended
 * Print it slowly, strength and layer adhesion are important for the toolhead's performance. The easiest way to do this is to limit the flowrate to ~5mm^3/s in the slicer.
-  
-0.4 and 0.5mm nozzles are supported, I have printed it on 0.5mm myself.
 
 
 ## materials:
