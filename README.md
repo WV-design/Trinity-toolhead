@@ -35,14 +35,9 @@ currently only mgn12 is supported
 | > 9mm belts | not supported |
 
 
-## Recommended parts:
-* 1x Fystec sherpa mini v3
-* ~~bad~~ dragon ace volcano
-* 2x Delta 3628
-* 1x Delta 2510
-### GT2 belts only for now, gt3 is thicker and needs way more tension. 
 ## BOM:
 
+### GT2 belts only for now, gt3 is thicker and needs way more tension. 
 
 | Amount | part | Note |
 |-|-|-|
