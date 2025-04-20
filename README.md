@@ -17,7 +17,8 @@ A small footprint unibody high performance toolhead option.
 
 ## Compatibility:
 
-Note: The Y footprint of this toolhead is VERY small so you likely get extra travel. This means the Y travel, and thus the printer as a whole can be smaller.
+> [!WARNING]  
+> Double Check compatibility for yourself, the cad has changed quite a lot so I may have missed compatibility issues.
 
 ### Voron
 Partial compatibility with voron trident and 2 gantries 
