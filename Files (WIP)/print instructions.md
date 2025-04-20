@@ -1,10 +1,3 @@
-## VERY IMPORTANT!
-There needs to be a pause in the print at ~10.6mm. At this point 2 m2.5x8mm bolts for the hotend should be inserted. This needs to happen before the bridge closing off these parts
-![image](https://github.com/user-attachments/assets/6143c773-2f75-4c1c-865b-a2438e528cc4)
-![image](https://github.com/user-attachments/assets/8761d648-0b02-4d7a-aafd-86eb564752c2)
-
-
-
 ## Settings:
 * Layer height: anything between 0.04-0.2mm should be fine
 * Wall count: ~6-solid(only walls).
