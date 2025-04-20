@@ -56,8 +56,10 @@ Compatible up to 9mm belts
 * Print it **slowly**, strength and layer adhesion are important for the toolhead's performance. 
 
 
-## materials:
-Fiber filled filaments are preferred because of the increase in stiffness 
+### materials:
+> [!TIP]
+> Fiber filled filaments are preferred because of the increase in stiffness 
+
 * < 70C ABS 
 * < 100C PC-PBT
 * PC (look for a Tg of ~130C or higher, the rest is blended/impure)
