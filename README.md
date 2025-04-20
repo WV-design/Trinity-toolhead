@@ -35,13 +35,32 @@ currently only mgn12 is supported
 | > 9mm belts | not supported |
 
 
-
 ## Recommended parts:
 * 1x Fystec sherpa mini v3
 * ~~bad~~ dragon ace volcano
 * 2x Delta 3628
 * 1x Delta 2510
 ### GT2 belts only for now, gt3 is thicker and needs way more tension. 
+## BOM:
+
+
+| Amount | part | Note |
+|-|-|-|
+| 1 | Hotend | Recommended:
+dragon ace volcano |
+| 1 | Extruder | Recommended:
+Sherpa mini |
+| 2 | 3628 fan | Recommended:
+ FFB03612EHNYCL move the most air but are the loudest
+ FFB03612EHN-BGA are more quiet |
+| 1 | 2510 fan | Hotend fan
+Recommended: delta ASB02505SHA-AY6B |
+| 4 | rail mounting bolts | m3x20 (mgn12 version |
+| 4 | m2.5x8mm | hotend mounting bolts |
+| 8 | m3x35mm | part cooling fan mounting |
+| 4 | m2.5x12 | hotend fan mounting
+| 11 | m3 heat set insert | 4 or 5mm
+| 4 | m2.5 heat set insert | for the hotend fan
 
 
 ## Print Settings:
