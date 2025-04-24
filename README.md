@@ -83,5 +83,5 @@ Hartk, for the [voron construct repository!](https://github.com/PrintersForAnts/
 
 DK and Adeo, on the insights on the ducts!
 
-Barthini and Caza, for feedback on the design
+Barthini, Caza and Prooda for feedback on the design
 
