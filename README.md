@@ -31,7 +31,7 @@ Compatible up to 9mm belts
 
 ## BOM:
 
-### GT2 belts only for now, gt3 is thicker and needs way more tension. 
+### GT2 belts only for now, gt3 needs way more tension. 
 
 | Amount | part | Note |
 |-|-|-|
