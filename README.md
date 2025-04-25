@@ -3,7 +3,7 @@
 Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
 A small footprint unibody high performance toolhead.
 
-![Untitled Project (16)](https://github.com/user-attachments/assets/cbb489eb-387c-4980-9744-d056e0c275b1)
+![Untitled Project (5)](https://github.com/user-attachments/assets/e66abe7d-150d-415a-bc50-0d7e416bb486)
 
 > [!NOTE]  
 > This is currently untested, I am still working on it. I would love your feedback! Discord: gerbz_ 
