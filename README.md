@@ -11,7 +11,7 @@ A small footprint unibody high performance toolhead option.
 * Made to DUEL! the Y footprint fits within a sherpa mini.
 * Double 3628 fans deliver enough cooling even for hot chambers.
 * Unibody to maximize strength and stiffness with minimal weight.
-* The hotend is supported at the bottom of the heatsink to increase stiffness.
+* The hotend is braced at the bottom of the heatsink to increase stiffness.
 * Relatively light weight, estimated ~400g.
 * Good COM
 
@@ -31,7 +31,7 @@ Compatible up to 9mm belts
 
 ## BOM:
 
-### GT2 belts only for now, gt3 needs way more tension. 
+### GT2 belts only for now as gt3 needs a lot higher tension. 
 
 | Amount | part | Note |
 |-|-|-|
