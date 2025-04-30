@@ -13,7 +13,7 @@ A small footprint unibody high performance toolhead.
 * Unibody to maximize strength and stiffness with minimal weight.
 * The hotend is braced at the bottom of the heatsink to increase stiffness.
 * Relatively light weight, estimated ~400g.
-* Good COM
+* Good COM (between the balls on the linear rails)
 
 
 ## Compatibility:
