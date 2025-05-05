@@ -10,10 +10,9 @@ A small footprint unibody high performance toolhead.
 
 * Made to DUEL! the Y footprint fits within a sherpa mini.
 * Double 3628 fans deliver enough cooling even for hot chambers.
-* Unibody to maximize strength and stiffness with minimal weight.
 * The hotend is braced at the bottom of the heatsink to increase stiffness.
-* Relatively light weight, estimated ~400g.
 * Good COM (between the balls on the linear rails)
+* Unibody to minimize bending and weight.
 
 
 ## Compatibility:
@@ -73,6 +72,8 @@ Compatible up to 9mm belts
 
 ## Credits
 Thanks to:
+Prooda, I'd consider him a co designer at this point. he gave me lots of feedback and spent long nights refining the design.
+
 Apex, for your [awesome belt clips](https://github.com/ApexArray/ApexClips) and the insight!
 
 Wayne, for the [monolith belt clamps](https://github.com/CloakedWayne/MISC/tree/main/Monolith_SLM_belt_clamps)
