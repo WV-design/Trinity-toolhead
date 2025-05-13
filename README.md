@@ -70,6 +70,7 @@ Compatible up to 9mm belts
 ## assembly (will come after the cad is more stable)
 > [!NOTE]  
 > make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well.
+
 > [image](https://github.com/user-attachments/assets/29e39f3b-fd8d-4573-bb5d-ef281a1a3118)
 
 > [!NOTE]  
