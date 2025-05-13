@@ -49,7 +49,7 @@ Compatible up to 9mm belts
 
 
 ## Print Settings:
-* Layer height: anything between 0.2mm is tested, smaller should also be fine
+* Layer height: The apex clips and belt clamp should be printed at 0.1mm!For the body anything between 0.1 and 0.2mm should work fine. 
 * Wall count: 6- only walls
 * Top/bottom layers: ~ 5
 * Infill: shouldnt really matter because of the walls and top layers
@@ -68,17 +68,21 @@ Compatible up to 9mm belts
 * PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
 
 ## assembly (will come after the cad is more stable)
+> [!NOTE]  
+> make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well.
+> [image](https://github.com/user-attachments/assets/29e39f3b-fd8d-4573-bb5d-ef281a1a3118)
+
+> [!NOTE]  
+> Make sure your belt clip has some friction, you want it to go in with a small amount of force but you should be able to insert it with one finger. There is a clip size test available, print this and check the fit. Then print 3 more of the one that fits the best.
 
 
 ## Credits
 Thanks to:
-Prooda, I'd consider him a co designer at this point. he gave me lots of feedback and spent long nights refining the design.
+Prooda, I'd consider him a co-designer at this point. he gave me lots of feedback and spent long nights refining the design.
 
 Apex, for your [awesome belt clips](https://github.com/ApexArray/ApexClips) and the insight!
 
 Wayne, for the [monolith belt clamps](https://github.com/CloakedWayne/MISC/tree/main/Monolith_SLM_belt_clamps)
-
-Annex, for the [extruder design!](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 
 Hartk, for the [voron construct repository!](https://github.com/PrintersForAnts/Voron-Construct)
 
