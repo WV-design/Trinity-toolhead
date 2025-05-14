@@ -49,9 +49,9 @@ Compatible up to 9mm belts
 
 
 ## Print Settings:
-* Layer height: The apex clips and belt clamp should be printed at 0.1mm!For the body anything between 0.1 and 0.2mm should work fine. 
+* Layer height: 0.2mm for the body and ducts, 0.1mm for the apex clips and belt clamp. 
 * Wall count: 6- only walls
-* Top/bottom layers: ~ 5
+* Top/bottom layers: ~ 6
 * Infill: shouldnt really matter because of the walls and top layers
 * Counterbore holes partially bridged is recommended
 * Print it **slowly**, strength and layer adhesion are important for the toolhead's performance. 
