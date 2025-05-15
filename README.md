@@ -6,7 +6,7 @@ A small footprint unibody high performance toolhead.
 ![Untitled Project (5)](https://github.com/user-attachments/assets/e66abe7d-150d-415a-bc50-0d7e416bb486)
 
 > [!NOTE]  
-> This is currently untested, I am still working on it. I would love your feedback! Discord: gerbz_ 
+> This is currently being tested, I am still working on it. I would love your feedback! Discord: gerbz_ 
 
 * Made to DUEL! the Y footprint fits within a sherpa mini.
 * Double 3628 fans deliver enough cooling even for hot chambers.
