@@ -1,4 +1,4 @@
-# __Trinity-toolhead__
+![image](https://github.com/user-attachments/assets/62f68201-bddc-4350-a63b-4caa098a119f)# __Trinity-toolhead__
 
 Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
 A small footprint unibody high performance toolhead.
@@ -70,7 +70,7 @@ Compatible with 6 and 9mm belts
 ## assembly (will come after the cad is more stable)
 > [!NOTE]  
 > make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well. <br />
-![image](https://github.com/user-attachments/assets/c6c9eb85-05e9-4c4f-a314-961a93c88949)
+![image](https://github.com/user-attachments/assets/c6c9eb85-05e9-4c4f-a314-961a93c88949) <br />
 > You need to check what belt clips fit best, this can differ per printer. You should use the **biggest** belt clamp that can still be inserted with one finger. There is a clip size test available. Also make sure the clips are in **all the way**. If the belts are not seated well the clips may not go in all the way. Below here are 2 examples of improperly installed clips. Make sure the legs of the clips are perfectly **parallel** and that all clips sit at the same height. <br /><br />
 ![image](https://github.com/user-attachments/assets/1f8e9bbc-02aa-41e8-a590-39a18656d3e8)
 ![image](https://github.com/user-attachments/assets/40e1e91b-7fc5-47d5-a53e-ca7e67595c07)
