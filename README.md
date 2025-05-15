@@ -21,12 +21,12 @@ A small footprint unibody high performance toolhead.
 > Double Check compatibility for yourself, the cad has changed quite a lot so I may have missed compatibility issues.
 
 ### Voron
-Partial compatibility with voron trident and 2 gantries 
-* Gantry must be flipped so there is more space under the xy joints
+Partial compatibility with voron trident and voron 2 gantries 
+* Gantry must be flipped
 * Cablechains for X cant be used
 
 ### Monolith
-Compatible up to 9mm belts
+Compatible with 6 and 9mm belts
 
 ## BOM:
 
@@ -74,7 +74,11 @@ Compatible up to 9mm belts
 ![image](https://github.com/user-attachments/assets/29e39f3b-fd8d-4573-bb5d-ef281a1a3118)
 
 > [!NOTE]  
-> Make sure your belt clip has some friction, you want it to go all the way in with just a bit of force, you should be able to insert it with one finger. There is a clip size test available, print this and check which one fits best. Then print 3 more of the one that fits the best.
+> You need to check what belt clips fit best, this can differ per printer. You should use the **biggest** belt clamp that can still be inserted with one finger. There is a clip size test available. Also make sure the clips are in **all the way**. If the belts are not seated well the clips may not go in all the way. Below here are 2 examples of improperly installed clips. Make sure the legs of the clips are perfectly **parallel** and that all clips sit at the same height.
+![image](https://github.com/user-attachments/assets/1f8e9bbc-02aa-41e8-a590-39a18656d3e8)
+![image](https://github.com/user-attachments/assets/40e1e91b-7fc5-47d5-a53e-ca7e67595c07)
+
+
 
 
 ## Credits
