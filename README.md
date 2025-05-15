@@ -38,8 +38,8 @@ Compatible up to 9mm belts
 | 1 | Extruder | Recommended: <br /> Sherpa mini |
 | 2 | 3628 fan | Recommended: <br /> [Delta FFB03612EHNYCL](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720) move the most air but are the loudest <br /> [Delta FFB03612EHN-BGA](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHN-BGA/3283582?s=N4IgTCBcDaIGJwEIAYDMA2AjGAogCQDkBaRAcQEEQBdAXyA) are more quiet |
 | 1 | 2510 fan | Recommended: <br /> [delta ASB02505SHA-AY6B](https://www.digikey.com/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489?s=N4IgTCBcDaIIIGUBCAGMBWF6EAk4Fo4BNANiRAF0BfIA) |
-| 1 | SLM monolith belt clamp | **OPTIONAL** |
-| 4 | rail mounting bolts | m3x20 (mgn12 version |
+| 1 | SLM monolith belt clamp | Only required for the MGN12 version |
+| 4 | rail mounting bolts | m3x20 |
 | 4 | m2.5x8mm | hotend mounting bolts |
 | 8 | m3x35mm | part cooling fan mounting |
 | 4 | m2.5x12 | hotend fan mounting
