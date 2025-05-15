@@ -74,7 +74,7 @@ Compatible up to 9mm belts
 ![image](https://github.com/user-attachments/assets/29e39f3b-fd8d-4573-bb5d-ef281a1a3118)
 
 > [!NOTE]  
-> Make sure your belt clip has some friction, you want it to go in with a small amount of force but you should be able to insert it with one finger. There is a clip size test available, print this and check the fit. Then print 3 more of the one that fits the best.
+> Make sure your belt clip has some friction, you want it to go all the way in with just a bit of force, you should be able to insert it with one finger. There is a clip size test available, print this and check which one fits best. Then print 3 more of the one that fits the best.
 
 
 ## Credits
