@@ -69,9 +69,9 @@ Compatible with 6 and 9mm belts
 
 ## assembly (will come after the cad is more stable)
 > [!NOTE]  
-> make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well.
+> make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well. <br />
 ![image](https://github.com/user-attachments/assets/29e39f3b-fd8d-4573-bb5d-ef281a1a3118)
-> You need to check what belt clips fit best, this can differ per printer. You should use the **biggest** belt clamp that can still be inserted with one finger. There is a clip size test available. Also make sure the clips are in **all the way**. If the belts are not seated well the clips may not go in all the way. Below here are 2 examples of improperly installed clips. Make sure the legs of the clips are perfectly **parallel** and that all clips sit at the same height.
+> You need to check what belt clips fit best, this can differ per printer. You should use the **biggest** belt clamp that can still be inserted with one finger. There is a clip size test available. Also make sure the clips are in **all the way**. If the belts are not seated well the clips may not go in all the way. Below here are 2 examples of improperly installed clips. Make sure the legs of the clips are perfectly **parallel** and that all clips sit at the same height.<br />
 ![image](https://github.com/user-attachments/assets/1f8e9bbc-02aa-41e8-a590-39a18656d3e8)
 ![image](https://github.com/user-attachments/assets/40e1e91b-7fc5-47d5-a53e-ca7e67595c07)
 
