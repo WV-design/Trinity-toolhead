@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/62f68201-bddc-4350-a63b-4caa098a119f)# __Trinity-toolhead__
+# __Trinity-toolhead__
 
 Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
 A small footprint unibody high performance toolhead.
