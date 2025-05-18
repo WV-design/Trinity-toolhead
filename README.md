@@ -20,17 +20,19 @@ A small footprint unibody high performance toolhead.
 > [!WARNING]  
 > Double Check compatibility for yourself, the cad has changed quite a lot so I may have missed compatibility issues.
 
+<!--
 ### Voron
 Partial compatibility with voron trident and voron 2 gantries 
 * Gantry must be flipped
 * Cablechains for X cant be used
+-->
 
 ### Monolith
-Compatible with 6 and 9mm belts
-
-## BOM:
+Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clamp
 
 ### GT2 belts only for now as gt3 needs a lot higher tension. 
+
+## BOM:
 
 | Amount | part | Note |
 |-|-|-|
