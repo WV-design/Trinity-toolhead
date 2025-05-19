@@ -7,7 +7,7 @@ A small footprint unibody high performance toolhead.
 
 > [!NOTE]  
 > This is currently being tested, I am still working on it and would love your feedback!
-> This project lives in a user project in the monolith discord server. You can also ask me directly; my username is Gerbz_
+> This project lives in a user project in the monolith discord server.
 
 
 * Made to DUEL! the Y footprint fits within a sherpa mini.
