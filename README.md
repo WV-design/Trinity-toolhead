@@ -1,7 +1,6 @@
-<p align="center"> 
-# __Trinity-toolhead__
+<p align="center"> # __Trinity-toolhead__
 
-Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
+<p align="center"> Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
 A small footprint unibody high performance toolhead.
 </p>
 
