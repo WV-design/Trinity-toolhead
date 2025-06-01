@@ -7,9 +7,6 @@ A small footprint unibody high performance toolhead.
 
 > [!NOTE]  
 > This is currently being tested, I am still working on it and would love your feedback!
->
-> an update is coming soon, I'd hold off on printing for a bit. this message will be gone after the update.
->
 > This project lives in a user project in the monolith discord server.
 
 
