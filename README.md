@@ -44,10 +44,9 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 | 1 | 2510 fan | Recommended: <br /> [delta ASB02505SHA-AY6B](https://www.digikey.com/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489?s=N4IgTCBcDaIIIGUBCAGMBWF6EAk4Fo4BNANiRAF0BfIA) |
 | 1 | SLM monolith belt clamp | Only required for the MGN12 version |
 | 4 | rail mounting bolts | m3x20 |
-| 4 | m2.5x8mm | hotend mounting bolts |
-| 8 | m3x35mm | part cooling fan mounting |
-| 4 | m2.5x12 | hotend fan mounting
-| 11 | m3 heat set insert | 4 or 5mm
+| 2 | m2.5x8mm | hotend mounting bolts |
+| 6 | m3x35mm | part cooling fan mounting |
+| 12 | m3 heat set insert | 4 or 5mm
 | 4 | m2.5 heat set insert | for the hotend fan
 
 
