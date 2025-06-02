@@ -43,12 +43,11 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 | 2 | 3628 fan | Recommended: <br /> [Delta FFB03612EHNYCL](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720) move the most air but are the loudest <br /> [Delta FFB03612EHN-BGA](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHN-BGA/3283582?s=N4IgTCBcDaIGJwEIAYDMA2AjGAogCQDkBaRAcQEEQBdAXyA) are more quiet |
 | 1 | 2510 fan | Recommended: <br /> [delta ASB02505SHA-AY6B](https://www.digikey.com/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489?s=N4IgTCBcDaIIIGUBCAGMBWF6EAk4Fo4BNANiRAF0BfIA) |
 | 1 | SLM monolith belt clamp | Only required for the MGN12 version |
+| 6 | part cooling fan mounting | m3x35mm | 
 | 4 | rail mounting bolts | m3x20 |
-| 2 | m2.5x8mm | hotend mounting bolts |
-| 6 | m3x35mm | part cooling fan mounting |
-| 12 | m3 heat set insert | 4 or 5mm
-| 4 | m2.5 heat set insert | for the hotend fan
-
+| 11 | heat set insert | m3x4/5mm |
+| 4 | hotend mounting bolts | m2.5x8mm | 
+| 2 | hotend fan mounting | m2.5x12mm | 
 
 
 ## Print Settings:
