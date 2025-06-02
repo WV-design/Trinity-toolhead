@@ -14,7 +14,7 @@ A small footprint unibody high performance toolhead.
 * Double 3628 fans deliver enough cooling even for hot chambers.
 * The hotend is braced at the bottom of the heatsink to increase stiffness.
 * Good COM (between the balls on the linear rails)
-* Unibody to minimize bending and weight.
+* Single piece body to minimize bending and weight.
 
 
 ## Compatibility:
