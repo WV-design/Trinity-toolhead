@@ -30,7 +30,7 @@ Partial compatibility with voron trident and voron 2 gantries
 -->
 
 ### Monolith
-Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clamp
+Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clamp)
 
 ### GT2 belts only for now as gt3 needs a lot higher tension. 
 
@@ -46,8 +46,8 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 | 4 | part cooling fan mounting | m3x35mm socket head | 
 | 2 | part cooling fan mounting | m3x35 button head (these can be replaced with 2 more socket head screws)|
 | 1 | K face mounting bolt | m3x30 button head|
-| 2 | extruder mounting bolt | m3x12 button head|
 | 4 | rail mounting bolts | m3x20 socket head|
+| 2 | extruder mounting bolt | m3x12 button head|
 | 11 | heat set insert | m3x4/5mm |
 | 4 | hotend mounting bolts | m2.5x8mm | 
 | 2 | hotend fan mounting | m2.5x12mm | 
@@ -95,5 +95,5 @@ Hartk, for the [voron construct repository!](https://github.com/PrintersForAnts/
 
 DK and Adeo, on the insights on the ducts!
 
-Barthini, Caza and Prooda for feedback on the design
+Barthini and Caza for feedback on the design
 
