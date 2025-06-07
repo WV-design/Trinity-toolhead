@@ -75,8 +75,8 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 ## assembly (will come after the cad is more stable)
 > [!IMPORTANT]  
 > make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well. <br />
-![image](https://github.com/user-attachments/assets/c6c9eb85-05e9-4c4f-a314-961a93c88949) <br />
-![image](https://github.com/user-attachments/assets/e18db0a6-a48e-4216-9066-76ce3d7d0c60)
+![image](https://github.com/user-attachments/assets/69d3e6b4-8164-4774-8e41-9ad379f47fe9) <br />
+
 
 
 > You need to check what belt clips fit best, this can differ per printer. You should use the **biggest** belt clamp that can still be inserted with one finger. There is a clip size test available. Also make sure the clips are in **all the way**. If the belts are not seated well the clips may not go in all the way. Below here are 2 examples of improperly installed clips. Make sure the legs of the clips are perfectly **parallel** and that all clips sit at the same height. <br /><br />
