@@ -13,6 +13,6 @@ Trinity is too tall for most belt tensioners, therefore Prooda developed a new o
 Fiber filled filaments are preferred because of the increase in stiffness 
 * < 70C ABS 
 * < 100C PC-PBT
-* PC (look for a Tg of ~130C or higher, the rest is blended/impure)
+* PC (look for a Tg of ~130C or higher, the rest is blended/impure and may creep)
 * PET (annealed)
 * PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
