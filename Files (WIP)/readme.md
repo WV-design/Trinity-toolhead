@@ -9,7 +9,8 @@ Trinity is too tall for most belt tensioners, therefore Prooda developed a new o
 * Print it slowly, strength and layer adhesion are important for the toolhead's performance. The easiest way to do this is to limit the flowrate in the slicer.
 
 ### material choice:
-Fiber filled filaments are preferred because of the increase in stiffness 
+Fiber filled filaments are preferred because of the increase in stiffness
+The apex clips should NOT be printed in a brittle material or be annealed!
 * < 70C ABS 
 * < 100C PC-PBT
 * PC (look for a Tg of ~130C or higher, the rest is blended/impure and may creep)
