@@ -1,4 +1,4 @@
-## Heads up, read this page before printing!
+### Heads up, read this page before printing!
 Trinity is too tall for most belt tensioners, therefore Prooda developed a new one. This can be found in the "extras" section
 
 ### selection single/multi color
