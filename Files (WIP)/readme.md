@@ -10,8 +10,8 @@ Trinity is too tall for most belt tensioners, therefore Prooda developed a new o
 
 ### material choice:
 > [!NOTE]  
-> Fiber filled filaments are preferred because of the increase in stiffness.
-> The apex clips should NOT be printed in a brittle material or be annealed!
+> * Fiber filled filaments are preferred because of the increase in stiffness.
+> * The apex clips should NOT be printed in a brittle material or be annealed!
 * < 70C ABS 
 * < 100C PC-PBT
 * PC (look for a Tg of ~130C or higher, the rest is blended/impure and may creep)
