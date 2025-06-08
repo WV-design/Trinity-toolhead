@@ -54,12 +54,31 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 
 
 ## Print Settings:
-* Layer height: 0.2mm for the body and ducts, 0.1mm for the apex clips and belt clamp. 
-* Wall count: 6- only walls
-* Top/bottom layers: ~ 6
-* Infill: shouldnt really matter because of the walls and top layers
-* Counterbore holes partially bridged is recommended
-* Print it **slowly**, strength and layer adhesion are important for the toolhead's performance. 
+* Layer heights
+  - body: <=0.2mm
+  - ducts: ideally ~0.1mm to make them smoother but anything will work
+  - apex clips: ~0.1mm so the different thicknesses print properly
+  - belt clamp plate ideally <= 0.12mm to get the teeth to interface with the belt better 
+* Wall count: => 5
+* Top/bottom layers: => 6
+* Infill: shouldnt really matter because of the walls and top layers but => 20% is nice for printing
+* Print it **slowly**, strength and layer adhesion are important for the toolhead's performance.
+
+  
+### Print settings:
+* Layer height: anything between 0.04-0.2mm should be fine. Consider a smaller (~0.12mm) layer height for the ducts
+* Wall count: ~6-solid(only walls).
+* Print it slowly, strength and layer adhesion are important for the toolhead's performance. The easiest way to do this is to limit the flowrate in the slicer.
+
+### material choice:
+> [!NOTE]  
+> * Fiber filled filaments are preferred because of the increase in stiffness.
+> * The apex clips should NOT be printed in a brittle material or be annealed!
+* < 70C ABS 
+* < 100C PC-PBT
+* PC (look for a Tg of ~130C or higher, the rest is blended/impure and may creep)
+* PET (annealed)
+* PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
 
 
 ### materials:
