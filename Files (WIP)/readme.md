@@ -18,8 +18,7 @@ Fiber filled filaments are preferred because of the increase in stiffness
 
 ### selection single/multi color
 I designed a "logo cutout" piece so you can choose how to print the logo. Options include:
-- multi color. the file includes inset edges on the front face, so the slicer should be able to easily fill the faces with colors. [You can do this on a normal single toolhead printer without an mmu if you change the filament by hand](https://www.youtube.com/watch?v=6m_Wf59O1xk)
-- ![image](https://github.com/user-attachments/assets/0c0d6d3f-3230-416c-940d-d7fe5f4b1a3e)
-- ![image](https://github.com/user-attachments/assets/72aeb910-5b96-41b7-ba6e-09a971dbaae0)
-- single color without logo, this is the easiest, you simply delete the logo cutout before printing.
+- multi color. the file includes inset edges on the front face, so the slicer should be able to easily fill the faces with colors. [You can do this on a normal single toolhead printer without an mmu if you change the filament by hand](https://www.youtube.com/watch?v=6m_Wf59O1xk) ![image](https://github.com/user-attachments/assets/6565424a-4793-496f-a662-85f778886582)
+- single color without logo, this is the easiest, you simply delete the logo cutout before printing. ![image](https://github.com/user-attachments/assets/defcc5e8-e608-4542-b0e9-fc8da3624f1f)
+
 - single color with inset logo, for this option you need to do some slicer tricks. You can use the "logo cutout" as a negative body to cut into the main body. It's explained in [this video](https://www.youtube.com/watch?v=_e7CY2rMzgA)
