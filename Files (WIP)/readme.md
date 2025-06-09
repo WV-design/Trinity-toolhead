@@ -1,7 +1,7 @@
 ### Heads up, read this page before printing!
 Trinity is too tall for most belt tensioners, therefore Prooda developed a new one. This can be found in the "extras" section
 
-### selection single/multi color
+### selection single/multi color (from version 1.42)
 I designed a "logo cutout" piece so you can choose how to print the logo. Options include:
 - multi color. the file includes inset edges on the front face, so the slicer should be able to easily fill the faces with colors. [You can do this on a normal single toolhead printer without an mmu if you change the filament by hand](https://www.youtube.com/watch?v=6m_Wf59O1xk)
   
