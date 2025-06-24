@@ -63,13 +63,7 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 * Top/bottom layers: => 6
 * Infill: shouldnt really matter because of the walls and top layers but => 20% is nice for printing
 * Print it **slowly**, strength and layer adhesion are important for the toolhead's performance.
-
-  
-### Print settings:
-* Layer height: anything between 0.04-0.2mm should be fine. Consider a smaller (~0.12mm) layer height for the ducts
-* Wall count: ~6-solid(only walls).
-* Print it slowly, strength and layer adhesion are important for the toolhead's performance. The easiest way to do this is to limit the flowrate in the slicer.
-
+* 
 ### material choice:
 > [!NOTE]  
 > * Fiber filled filaments are preferred because of the increase in stiffness.
