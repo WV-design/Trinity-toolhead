@@ -74,17 +74,6 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 * PET (annealed)
 * PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
 
-
-### materials:
-> [!TIP]
-> Fiber filled filaments are preferred because of the increase in stiffness 
-
-* < 70C ABS 
-* < 100C PC-PBT
-* PC (look for a Tg of ~130C or higher, the rest is blended/impure)
-* PET (annealed)
-* PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
-
 ## assembly (will come after the cad is more stable)
 > [!IMPORTANT]  
 > make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well. <br />
