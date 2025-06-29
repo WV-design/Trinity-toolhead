@@ -1,6 +1,6 @@
 # __Trinity-toolhead__
 
-Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, and an early dreadnought version I came up with this: 
+Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, and an early version of dreadnought I came up with this: 
 A small footprint unibody high performance toolhead.
 
 ![Untitled Project (5)](https://github.com/user-attachments/assets/e66abe7d-150d-415a-bc50-0d7e416bb486)
