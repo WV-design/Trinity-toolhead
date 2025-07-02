@@ -55,7 +55,7 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 
 ## Print Settings:
 * Layer heights
-  - body: <=0.2mm
+  - body: <= 0.2mm
   - ducts: ideally ~0.1mm to make them smoother but anything will work
   - apex clips: ~0.1mm so the different thicknesses print properly
   - belt clamp plate ideally <= 0.12mm to get the teeth to interface with the belt better 
@@ -63,7 +63,7 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 * Top/bottom layers: => 6
 * Infill: shouldnt really matter because of the walls and top layers but => 20% is nice for printing
 * Print it **slowly**, strength and layer adhesion are important for the toolhead's performance.
-* 
+  
 ### material choice:
 > [!NOTE]  
 > * Fiber filled filaments are preferred because of the increase in stiffness.
