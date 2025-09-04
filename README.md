@@ -13,8 +13,8 @@ A small footprint unibody high performance toolhead.
 * Made to DUEL! the Y footprint fits within a sherpa mini so it takes up very little space in a dual gantry printer.
 * Double 3628 fans deliver enough cooling even for hot chambers.
 * The hotend is braced at the bottom of the heatsink to increase stiffness.
-* Good COM (between the balls on the linear rails)
-* Single piece body to minimize bending and weight.
+* Balanced center of mass (COM) for lower rail wear and bending.
+* Single piece body to maximize stiffness and minimize weight.
 
 
 ## Compatibility:
