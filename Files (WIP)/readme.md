@@ -6,7 +6,8 @@ I designed a "logo cutout" piece so you can choose how to print the logo. Option
 - multi color. the file includes inset edges on the front face, so the slicer should be able to easily fill the faces with colors. [You can do this on a normal single toolhead printer without an mmu if you change the filament by hand](https://www.youtube.com/watch?v=6m_Wf59O1xk)
   
 ![image](https://github.com/user-attachments/assets/6fd1d760-b904-483f-bc6d-5a28c76e25e2)
-<img width="249" height="218" alt="image" src="https://github.com/user-attachments/assets/4b601989-5a4a-4615-b6f0-37ba68bf545c" />
+<img width="257" height="248" alt="image" src="https://github.com/user-attachments/assets/601475e0-683c-4acf-a0d4-3be8f2b6775b" />
+
 
 
 
