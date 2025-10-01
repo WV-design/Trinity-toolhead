@@ -7,7 +7,7 @@ I designed a "logo cutout" piece so you can choose how to print the logo. Option
   
 ![image](https://github.com/user-attachments/assets/6fd1d760-b904-483f-bc6d-5a28c76e25e2)
 
-- single color with inset logo, for this option you need to do some slicer tricks. You can use the "logo cutout" as a negative body to cut into the main body. It's explained in [this video](https://www.youtube.com/watch?v=_e7CY2rMzgA)
+- single color with inset logo, for this option you need to do some slicer tricks. You can use one of the "logo cutouts" (outlines or the 3 shapes) as a negative body to cut into the main body.  It's explained in [this video](https://www.youtube.com/watch?v=_e7CY2rMzgA)
   
 ![image](https://github.com/user-attachments/assets/defcc5e8-e608-4542-b0e9-fc8da3624f1f)
 - single color without logo, this is the easiest, you simply delete the logo cutout before printing.
