@@ -1,5 +1,7 @@
 ### Heads up, read this page before printing!
 Trinity is too tall for most belt tensioners, therefore Prooda developed a new one. This can be found in the "extras" section
+Want to use a toolhead board ~~To increase the y footprint~~ ? Check out the "extras" section, there are files for 2 boards.
+Want probe mounts? Beacon works natively and buckshot/klicky00 (with an adapter plate in... you guessed it "Extras"!)
 
 ### selection single/multi color (from version 1.42 on)
 I designed a "logo cutout" piece so you can choose how to print the logo. Options include:
