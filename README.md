@@ -87,7 +87,8 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 
 ## Credits
 Thanks to:
-Prooda, I'd consider him a co-designer at this point. he gave me lots of feedback and spent long nights refining the design.
+Prooda, I'd consider him a co-designer at this point. He gave me lots of feedback and spent long nights refining the design.
+Martin, he's done a *lot* of work on modding trinity!
 
 Apex, for your [awesome belt clips](https://github.com/ApexArray/ApexClips) and the insight!
 
@@ -97,5 +98,5 @@ Hartk, for the [voron construct repository!](https://github.com/PrintersForAnts/
 
 DK and Adeo, on the insights on the ducts!
 
-Barthini and Caza for feedback on the design
+Barthini and Caza for early feedback on the design
 
