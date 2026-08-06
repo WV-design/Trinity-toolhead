@@ -30,9 +30,9 @@ Partial compatibility with voron trident and voron 2 gantries
 -->
 
 ### Monolith
-Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clamp)
+Compatible with gates gt2 (and epdm) 6 and 9mm belts, mgn9 and mgn12
 
-### GT2 belts only for now as gt3 needs a lot higher tension. 
+
 
 ## BOM:
 
@@ -74,7 +74,6 @@ Compatible with 6 and 9mm belts, mgn9 and mgn12 (with the monolith SLM belt clam
 * PET (annealed)
 * PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
 
-## assembly (will come after the cad is more stable)
 > [!IMPORTANT]  
 > make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well. <br />
 ![image](https://github.com/user-attachments/assets/69d3e6b4-8164-4774-8e41-9ad379f47fe9) <br />
