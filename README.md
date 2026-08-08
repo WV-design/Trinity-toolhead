@@ -20,7 +20,7 @@ A small footprint unibody high performance toolhead.
 ## Compatibility:
 
 > [!WARNING]  
-> Double Check compatibility for yourself, the cad has changed quite a lot so I may have missed compatibility issues.
+> This toolhead is still in ACTIVE development! There may be newer CAD on the monolith discord server, the files on this github page are a stable release but miss features.
 
 <!--
 ### Voron
