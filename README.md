@@ -30,8 +30,7 @@ Partial compatibility with voron trident and voron 2 gantries
 -->
 
 ### Monolith
-Compatible with gates gt2 (and epdm) 6 and 9mm belts, mgn9 and mgn12
-
+Compatible with gates gt2 (and epdm) 6 and 9mm belts mgn12
 
 
 ## BOM:
@@ -39,10 +38,10 @@ Compatible with gates gt2 (and epdm) 6 and 9mm belts, mgn9 and mgn12
 | Amount | part | Note |
 |-|-|-|
 | 1 | Hotend | Recommended: <br /> [dragon ace volcano](https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend?VariantsId=11350) |
-| 1 | Extruder | Recommended: <br /> Sherpa mini |
+| 1 | Extruder | Recommended: <br /> [Sherpa mini](https://www.fysetc.com/products/cnc-all-metal-sherpa-v3-extruder-light-weight-kit-36-moons) |
 | 2 | 3628 fan | Recommended: <br /> [Delta FFB03612EHNYCL](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720)|
 | 1 | 2510 fan | Recommended: <br /> [delta ASB02505SHA-AY6B](https://www.digikey.com/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489?s=N4IgTCBcDaIIIGUBCAGMBWF6EAk4Fo4BNANiRAF0BfIA) |
-| 1 | SLM monolith belt clamp | Only required for the MGN12 version |
+| 1 | SLM monolith belt clamp | https://monolith-gantry-updates.zen3d.eu/monolith-slm-belt-clamps/ |
 | 4 | part cooling fan mounting | m3x35mm socket head | 
 | 2 | part cooling fan mounting | m3x35 button head (these can be replaced with 2 more socket head screws)|
 | 1 | K face mounting bolt | m3x30 button head|
@@ -51,27 +50,27 @@ Compatible with gates gt2 (and epdm) 6 and 9mm belts, mgn9 and mgn12
 | 11 | heat set insert | m3x4/5mm |
 | 4 | hotend mounting bolts | m2.5x8mm | 
 | 2 | hotend fan mounting | m2.5x12mm | 
+| 2 | square nut | DIN 557 m3  |
 
 
 ## Print Settings:
 * Layer heights
   - body: <= 0.2mm
-  - ducts: ideally ~0.1mm to make them smoother but anything will work
+  - ducts: ideally ~0.1mm to make them smoother but anything from 0.1-0.24 should work
   - apex clips: ~0.1mm so the different thicknesses print properly
   - belt clamp plate ideally <= 0.12mm to get the teeth to interface with the belt better 
 * Wall count: => 5
 * Top/bottom layers: => 6
-* Infill: shouldnt really matter because of the walls and top layers but => 20% is nice for printing
-* Print it **slowly**, strength and layer adhesion are important for the toolhead's performance.
+* Infill: shouldnt really matter because of the walls and top layers but => 20% is nice for printing. My recommendation: 40% multi wall triangle infil 
+* Print the parts **slowly**, strength and layer adhesion are important for the toolhead's performance. To achieve this, you can simply limit the flowrate in your slicer.
   
 ### material choice:
 > [!NOTE]  
 > * Fiber filled filaments are preferred because of the increase in stiffness.
-> * The apex clips should NOT be printed in a brittle material or be annealed!
+> * The apex clips should NOT be printed in a brittle material or be annealed! They can snap when inserting but will be fine once in place.
 * < 70C ABS 
-* < 100C PC-PBT
+* < 100C PC-PBT/PET (NOT PETG!) (annealed)
 * PC (look for a Tg of ~130C or higher, the rest is blended/impure and may creep)
-* PET (annealed)
 * PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
 
 > [!IMPORTANT]  
