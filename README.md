@@ -88,8 +88,8 @@ Compatible with gates gt2 (and epdm) 6 and 9mm belts mgn12
 
 ## Credits
 Thanks to:
-Prooda, I'd consider him a co-designer at this point. He gave me lots of feedback and spent long nights refining the design.
-Martin, he's done a *lot* of work on modding trinity!
+### Prooda, I'd consider him a co-designer at this point. He gave me lots of feedback and spent long nights refining the design.
+### Martin, he's done a *lot* of work on modding trinity!
 
 Apex, for your [awesome belt clips](https://github.com/ApexArray/ApexClips) and the insight!
 
@@ -99,5 +99,4 @@ Hartk, for the [voron construct repository!](https://github.com/PrintersForAnts/
 
 DK and Adeo, on the insights on the ducts!
 
-Barthini and Caza for early feedback on the design
-
+And everyone who has shown support, given feedback or just showcased their builds, thank you!
