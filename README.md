@@ -1,19 +1,23 @@
-
 # __Trinity-toolhead__
-
-Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
-A small footprint unibody high performance toolhead.
-
-<img width="3000" height="1400" alt="Untitled Project (17)" src="https://github.com/user-attachments/assets/debb5428-22b0-4adc-b62d-277d90ccb1e6" />
 
 > [!NOTE]  
 > This project lives in a user project in the monolith discord server.
+Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
+A small footprint unibody high performance toolhead.
 
 * Made to DUEL! the Y footprint fits within a sherpa mini so it takes up very little space in a dual gantry printer.
 * Double 3628 fans deliver enough cooling even for hot chambers.
 * The hotend is braced at the heatsink to increase stiffness
 * Balanced center of mass (COM) for cleaner input shaper graphs and lower rail wear
 * Single piece body to maximize stiffness and minimize weight.
+
+
+<img width="3000" height="1400" alt="Untitled Project (17)" src="https://github.com/user-attachments/assets/debb5428-22b0-4adc-b62d-277d90ccb1e6" />
+<p float="left">
+<img width="335" height="670" alt="trinity 1.6 render side" src="https://github.com/user-attachments/assets/0219c608-78c5-42fd-bfe8-1a7bad4fbdd4" />
+<img width="670" height="670" alt="trinity 1.6 render diagonal" src="https://github.com/user-attachments/assets/88672dc5-90ed-4025-99da-cc367ae0f013" />
+</p>
+
 
 
 ## Compatibility:
@@ -24,10 +28,9 @@ Partial compatibility with voron trident and voron 2 gantries
 * Cablechains for X cant be used
 -->
 
-### Monolith
-Compatible with:
-mgn12 rails (hiwin spec as well as airtac are tested)
-gates gt2 (and epdm) 6, 9 and 10mm belts (for 9mm belts, use the 10mm variant)
+Rails: mgn12 (hiwin spec as well as airtac are tested)
+
+Belts: gates gt2 (and epdm) 6, 9 and 10mm (for 9mm belts, use the 10mm belts variant of the body)
 
 
 ## BOM:
@@ -52,17 +55,6 @@ gates gt2 (and epdm) 6, 9 and 10mm belts (for 9mm belts, use the 10mm variant)
 | 2 | hotend fan heatset inserts | m2.5x4mm
 
 
-
-## Print Settings:
-* Layer heights
-  - body: <= 0.2mm
-  - ducts: ideally ~0.12mm to make them smoother but anything from 0.1-0.24 should work
-  - apex clips: ~0.1mm so the different thicknesses print properly
-* Wall count: => 5
-* Top/bottom layers: => 6
-* Infill: this shouldnt really matter because of the walls and top layers but => 20% is nice for printing. My recommendation: 40% multi wall triangle infil 
-* Print the parts **slowly**, strength and layer adhesion are important for the toolhead's performance. To achieve this, you can simply limit the flowrate in your slicer.
-  
 ### material choice:
 > [!NOTE]  
 > * Fiber filled filaments are preferred because of the increase in stiffness.
@@ -80,6 +72,16 @@ gates gt2 (and epdm) 6, 9 and 10mm belts (for 9mm belts, use the 10mm variant)
 ![image](https://github.com/user-attachments/assets/40e1e91b-7fc5-47d5-a53e-ca7e67595c07)
 
 
+## Print Settings:
+* Layer heights
+  - body: <= 0.2mm
+  - ducts: ideally ~0.12mm to make them smoother but anything from 0.1-0.24 should work
+  - apex clips: ~0.1mm so the different thicknesses print properly
+* Wall count: => 5
+* Top/bottom layers: => 6
+* Infill: this shouldnt really matter because of the walls and top layers but => 20% is nice for printing. My recommendation: 40% multi wall triangle infil 
+* Print the parts **slowly**, strength and layer adhesion are important for the toolhead's performance. To achieve this, you can simply limit the flowrate in your slicer.
+  
 
 ## Credits
 Thanks to:
