@@ -1,27 +1,22 @@
+
 # __Trinity-toolhead__
 
 Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
 A small footprint unibody high performance toolhead.
 
-![Untitled Project (5)](https://github.com/user-attachments/assets/e66abe7d-150d-415a-bc50-0d7e416bb486)
+<img width="3000" height="1400" alt="Untitled Project (17)" src="https://github.com/user-attachments/assets/debb5428-22b0-4adc-b62d-277d90ccb1e6" />
 
 > [!NOTE]  
-> This is currently being tested, I am still working on it and would love your feedback!
 > This project lives in a user project in the monolith discord server.
-
 
 * Made to DUEL! the Y footprint fits within a sherpa mini so it takes up very little space in a dual gantry printer.
 * Double 3628 fans deliver enough cooling even for hot chambers.
-* The hotend is braced at the bottom of the heatsink to increase stiffness and decrease deflection.
-* Balanced center of mass (COM) for lower rail wear and deflection.
+* The hotend is braced at the heatsink to increase stiffness
+* Balanced center of mass (COM) for cleaner input shaper graphs and lower rail wear
 * Single piece body to maximize stiffness and minimize weight.
 
 
 ## Compatibility:
-
-> [!WARNING]  
-> This toolhead is still in ACTIVE development! There may be newer CAD on the monolith discord server, the files on this github page are a stable release but miss features.
-
 <!--
 ### Voron
 Partial compatibility with voron trident and voron 2 gantries 
@@ -30,7 +25,9 @@ Partial compatibility with voron trident and voron 2 gantries
 -->
 
 ### Monolith
-Compatible with gates gt2 (and epdm) 6 and 9mm belts mgn12
+Compatible with:
+mgn12 rails (hiwin spec as well as airtac are tested)
+gates gt2 (and epdm) 6, 9 and 10mm belts (for 9mm belts, use the 10mm variant)
 
 
 ## BOM:
@@ -59,12 +56,11 @@ Compatible with gates gt2 (and epdm) 6 and 9mm belts mgn12
 ## Print Settings:
 * Layer heights
   - body: <= 0.2mm
-  - ducts: ideally ~0.1mm to make them smoother but anything from 0.1-0.24 should work
+  - ducts: ideally ~0.12mm to make them smoother but anything from 0.1-0.24 should work
   - apex clips: ~0.1mm so the different thicknesses print properly
-  - belt clamp plate ideally <= 0.12mm to get the teeth to interface with the belt better 
 * Wall count: => 5
 * Top/bottom layers: => 6
-* Infill: shouldnt really matter because of the walls and top layers but => 20% is nice for printing. My recommendation: 40% multi wall triangle infil 
+* Infill: this shouldnt really matter because of the walls and top layers but => 20% is nice for printing. My recommendation: 40% multi wall triangle infil 
 * Print the parts **slowly**, strength and layer adhesion are important for the toolhead's performance. To achieve this, you can simply limit the flowrate in your slicer.
   
 ### material choice:
@@ -82,7 +78,6 @@ Compatible with gates gt2 (and epdm) 6 and 9mm belts mgn12
 > You need to check what belt clips fit best, this can differ per printer. You should use the **thickest** belt clamp that can still be inserted with one finger, friction is good but you dont want to damage the belt. There is a clip size test available in the "extras" folder. Also make sure the clips are in **all the way**. If the belts are not seated well the clips may not go in all the way. Below here are 2 examples of improperly installed clips. Make sure the legs of the clips are perfectly **parallel** and that all clips sit at the same height. <br /><br />
 ![image](https://github.com/user-attachments/assets/1f8e9bbc-02aa-41e8-a590-39a18656d3e8)
 ![image](https://github.com/user-attachments/assets/40e1e91b-7fc5-47d5-a53e-ca7e67595c07)
-
 
 
 
