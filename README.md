@@ -32,6 +32,11 @@ Rails: mgn12 (hiwin spec as well as airtac are tested)
 
 Belts: gates gt2 (and epdm) 6, 9 and 10mm (for 9mm belts, use the 10mm belts variant of the body)
 
+Extruder: The sherpa mini v3 (by fysetc) is the only official option, support for others may be modded later but performance cant be guaranteed
+
+Hotend: The dragon ace volcano is the only official option, support for others may be modded later but performance cant be guaranteed
+
+Probes: Beacon + cartographer, [Klicky00](https://github.com/DW-Tas/Klicky-00) as well with an [adapter plate](https://github.com/WV-design/Trinity-toolhead/blob/main/Files%20(WIP)/extras/Trinity%20klicky00%20mounting%20plate%20by%20Prooda.STEP)
 
 ## BOM:
 
@@ -57,12 +62,11 @@ Belts: gates gt2 (and epdm) 6, 9 and 10mm (for 9mm belts, use the 10mm belts var
 
 ### material choice:
 > [!NOTE]  
-> * Fiber filled filaments are preferred because of the increase in stiffness.
+> * Fiber filled filaments are preferred because of their stiffness
 > * The apex clips should NOT be printed in a brittle material or be annealed! They can snap when inserting but will be fine once in place.
-* < 70C ABS 
-* < 100C PC-PBT/PET (NOT PETG!) (annealed)
-* PC (look for a Tg of ~130C or higher, the rest is blended/impure and may creep)
-* PPS (annealed) (also what chamber temp are you planning to go for?? poor fans...)
+* < 70C chamber temp ABS is fine
+* < 100C chamber temp annealed PC-PBT/PET(NOT PETG!), or PC (look for a Tg of ~130C or higher, the rest is blended/impure and may creep)
+* > 100C or for bonus points annealed PPS/ultem (yes someone printed trinity in ultem 1010)
 
 > [!IMPORTANT]  
 > make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well. <br />
