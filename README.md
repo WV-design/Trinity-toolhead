@@ -39,18 +39,23 @@ Compatible with gates gt2 (and epdm) 6 and 9mm belts mgn12
 |-|-|-|
 | 1 | Hotend | Recommended: <br /> [dragon ace volcano](https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend?VariantsId=11350) |
 | 1 | Extruder | Recommended: <br /> [Sherpa mini](https://www.fysetc.com/products/cnc-all-metal-sherpa-v3-extruder-light-weight-kit-36-moons) |
-| 2 | 3628 fan | Recommended: <br /> [Delta FFB03612EHNYCL](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720)|
+| 2 | 3628 fan | Recommended: <br /> [Delta FFB03612EHNYCL](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720)
+Alternatively (a little less powerful) [FFB03612VN-00](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612VN-00/24321211)|
 | 1 | 2510 fan | Recommended: <br /> [delta ASB02505SHA-AY6B](https://www.digikey.com/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489?s=N4IgTCBcDaIIIGUBCAGMBWF6EAk4Fo4BNANiRAF0BfIA) |
-| 1 | SLM monolith belt clamp | https://monolith-gantry-updates.zen3d.eu/monolith-slm-belt-clamps/ |
+| 1 | monolith belt clamp | SLM: https://monolith-gantry-updates.zen3d.eu/monolith-slm-belt-clamps/ 
+or CNC by dderg or LDO |
+| 1 | PTFE Tube "micro" bowden  | 4x2x71mm |
 | 4 | part cooling fan mounting | m3x35mm socket head | 
 | 2 | part cooling fan mounting | m3x35 button head (these can be replaced with 2 more socket head screws)|
 | 1 | K face mounting bolt | m3x30 button head|
-| 4 | rail mounting bolts | m3x20 socket head|
-| 2 | extruder mounting bolt | m3x12 button head|
-| 11 | heat set insert | m3x4/5mm |
-| 4 | hotend mounting bolts | m2.5x8mm | 
-| 2 | hotend fan mounting | m2.5x12mm | 
-| 2 | square nut | DIN 557 m3  |
+| 4 | rail mounting bolts | m3x25 socket head|
+| 2 | extruder mounting bolt | m3x16 button head|
+| 2 | square nut | DIN 557 m3 |
+| 8 | heat set insert | m3x4/5mm |
+| 4 | hotend mounting bolts | m2.5x8mm |
+| 2 | hotend fan mounting bolts | m2.5x14mm | 
+| 2 | hotend fan heatset inserts | m2.5x4mm
+
 
 
 ## Print Settings:
