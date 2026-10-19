@@ -3,7 +3,7 @@
 > [!NOTE]  
 > This project lives in a user project in the monolith discord server.
 Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
-A small footprint unibody high performance toolhead.
+A small footprint unibody high performance toolhead. The goal for this toolhead is to prioritize performance while using fans on the toolhead. This toolhead is designed to push speed in hot chambers
 
 * Made to DUEL! the tiny Y footprint makes it take up very little space for a dual gantry printers.
 * Double 3628 fans deliver enough cooling even for hot chambers.
