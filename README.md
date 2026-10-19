@@ -5,7 +5,7 @@
 Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
 A small footprint unibody high performance toolhead.
 
-* Made to DUEL! the Y footprint fits within a sherpa mini so it takes up very little space in a dual gantry printer.
+* Made to DUEL! the tiny Y footprint makes it take up very little space for a dual gantry printers.
 * Double 3628 fans deliver enough cooling even for hot chambers.
 * The hotend is braced at the heatsink to increase stiffness
 * Balanced center of mass (COM) for cleaner input shaper graphs and lower rail wear
@@ -28,15 +28,14 @@ Partial compatibility with voron trident and voron 2 gantries
 * Cablechains for X cant be used
 -->
 
-Rails: mgn12 (hiwin spec as well as airtac are tested)
 
-Belts: gates gt2 (and epdm) 6, 9 and 10mm (for 9mm belts, use the 10mm belts variant of the body)
-
-Extruder: The sherpa mini v3 (by fysetc) is the only official option, support for others may be modded later but performance cant be guaranteed
-
-Hotend: The dragon ace volcano is the only official option, support for others may be modded later but performance cant be guaranteed
-
-Probes: Beacon + cartographer, [Klicky00](https://github.com/DW-Tas/Klicky-00) as well with an [adapter plate](https://github.com/WV-design/Trinity-toolhead/blob/main/Files%20(WIP)/extras/Trinity%20klicky00%20mounting%20plate%20by%20Prooda.STEP)
+| Component | Supported Options & Variants | Notes |
+| :--- | :--- | :--- |
+| **Rails** | mgn12 | hiwin(clones) as well as airtac are tested |
+| **Belts** | gates gt2 (and epdm) 6, 9 and 10mm | for 9mm belts, use the 10mm belts variant of the body |
+| **Extruder** | sherpa mini v3 (by fysetc) | this is the only official option, support for others may be modded later but performance cant be guaranteed |
+| **Hotend** | dragon ace volcano | this is the only official option, support for others may be modded later but performance cant be guaranteed |
+| **Probes** | [Beacon](https://beacon3d.com/),  [cartographer](https://cartographer3d.com/), [Klicky00](https://github.com/DW-Tas/Klicky-00)  | an [adapter plate](https://github.com/WV-design/Trinity-toolhead/blob/main/Files%20(WIP)/extras/Trinity%20klicky00%20mounting%20plate%20by%20Prooda.STEP) is required for klicky00 |
 
 ## BOM:
 
@@ -64,9 +63,15 @@ Probes: Beacon + cartographer, [Klicky00](https://github.com/DW-Tas/Klicky-00) a
 > [!NOTE]  
 > * Fiber filled filaments are preferred because of their stiffness
 > * The apex clips should NOT be printed in a brittle material or be annealed! They can snap when inserting but will be fine once in place.
-* < 70C chamber temp ABS is fine
-* < 100C chamber temp annealed PC-PBT/PET(NOT PETG!), or PC (look for a Tg of ~130C or higher, the rest is blended/impure and may creep)
-* > 100C or for bonus points annealed PPS/ultem (yes someone printed trinity in ultem 1010)
+
+| Chamber Temp | Material | Notes |
+| :--- | :--- | :--- |
+| < 70C | ABS | is fine |
+| < 100C | annealed PC-PBT/PET(NOT PETG!), or PC | look for a Tg of ~130C or higher, the rest is blended/impure and may creep<br><br>The armchair engineering and monolith discord servers have good info on annealing these materials |
+| > 100C or for bonus points | annealed PPS/ultem | yes someone printed trinity in ultem 1010 |
+
+
+
 
 > [!IMPORTANT]  
 > make sure the ends of your belts are in good condition. If you re-use belts that have been used in another toolhead, be sure to double check them. This belt is a good example of a damaged one, the teeth are crushed so they wont grip the toolhead as well. <br />
