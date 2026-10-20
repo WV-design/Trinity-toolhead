@@ -3,7 +3,7 @@
 > [!NOTE]  
 > This project lives in a user project in the monolith discord server.
 
-Trinity is a unibody high performance toolhead with a small xy footprint. The goal for this toolhead is to prioritize performance while still mountingu fans on the toolhead. This toolhead is designed to push speed in hot chambers
+Trinity is a unibody high performance toolhead with a small xy footprint. The goal for this toolhead is to prioritize performance while keeping the part cooling on the toolhead. This toolhead is designed to push speed in hot chambers
 
 * Made to DUEL! the tiny Y footprint makes it take up very little space for a dual gantry printers.
 * Double 3628 fans deliver enough cooling even for hot chambers.
