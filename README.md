@@ -2,8 +2,8 @@
 
 > [!NOTE]  
 > This project lives in a user project in the monolith discord server.
-Taking inspiration from Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream, I came up with this: 
-A small footprint unibody high performance toolhead. The goal for this toolhead is to prioritize performance while using fans on the toolhead. This toolhead is designed to push speed in hot chambers
+
+Trinity is a unibody high performance toolhead with a small xy footprint. The goal for this toolhead is to prioritize performance while still mountingu fans on the toolhead. This toolhead is designed to push speed in hot chambers
 
 * Made to DUEL! the tiny Y footprint makes it take up very little space for a dual gantry printers.
 * Double 3628 fans deliver enough cooling even for hot chambers.
@@ -34,14 +34,14 @@ Partial compatibility with voron trident and voron 2 gantries
 | **Rails** | mgn12 | hiwin(clones) as well as airtac are tested |
 | **Belts** | gates gt2 (and epdm) 6, 9 and 10mm | for 9mm belts, use the 10mm belts variant of the body |
 | **Extruder** | sherpa mini v3 (by fysetc) | this is the only official option, support for others may be modded later but performance cant be guaranteed |
-| **Hotend** | dragon ace volcano | this is the only official option, support for others may be modded later but performance cant be guaranteed |
+| **Hotend** | [dragon ace volcano](https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend?VariantsId=12007) | this is the only official option, support for others may be modded later but performance cant be guaranteed |
 | **Probes** | [Beacon](https://beacon3d.com/),  [cartographer](https://cartographer3d.com/), [Klicky00](https://github.com/DW-Tas/Klicky-00)  | an [adapter plate](https://github.com/WV-design/Trinity-toolhead/blob/main/Files%20(WIP)/extras/Trinity%20klicky00%20mounting%20plate%20by%20Prooda.STEP) is required for klicky00 |
 
 ## BOM:
 
 | Amount | part | Note |
 |-|-|-|
-| 1 | Hotend | Recommended: <br /> [dragon ace volcano](https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend?VariantsId=11350) |
+| 1 | Hotend | Recommended: <br /> [dragon ace volcano](https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend?VariantsId=12007) |
 | 1 | Extruder | Recommended: <br /> [Sherpa mini](https://www.fysetc.com/products/cnc-all-metal-sherpa-v3-extruder-light-weight-kit-36-moons) |
 | 2 | 3628 fan | Recommended: [Delta FFB03612EHNYCL](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720) <br /> Alternatively (a little less powerful) [FFB03612VN-00](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612VN-00/24321211)|
 | 1 | 2510 fan | Recommended: <br /> [delta ASB02505SHA-AY6B](https://www.digikey.com/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489?s=N4IgTCBcDaIIIGUBCAGMBWF6EAk4Fo4BNANiRAF0BfIA) |
@@ -104,5 +104,8 @@ Wayne, for the [monolith belt clamps](https://github.com/CloakedWayne/MISC/tree/
 Hartk, for the [voron construct repository!](https://github.com/PrintersForAnts/Voron-Construct)
 
 DK and Adeo, on the insights on the ducts!
+
+toolheads I have taken I aspiration from: 
+Takeoff, Calamity, Tiger's toolhead, IROB and fiberstream
 
 And everyone who has shown support, given feedback or just showcased their builds, thank you!
